@@ -19,6 +19,9 @@ public class Btvns1 {
         int x5= a*b;
         System.out.println(x5);
 
+        float x6=a/b/b;
+        System.out.println(x6);
+
 
     }
 }
